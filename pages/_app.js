@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import NavLink from './NavLink.js';
+import {NavLink} from './NavLink.js';
 
 
 function MyApp({ Component, pageProps }) {
